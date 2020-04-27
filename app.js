@@ -23,7 +23,6 @@ switch (comando) {
         console.log('Comando no reconocido');
 }
 
-
 // let base = 'abc';
 
 //console.log(process.argv);
